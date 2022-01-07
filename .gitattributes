@@ -1,2 +1,2 @@
 # Git attributes
-*.jpg diff=exif
+*.jpg diff=exiftool
